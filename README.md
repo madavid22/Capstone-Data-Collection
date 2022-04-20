@@ -6,4 +6,6 @@ Install the following packages:
   2. pandas
   3. geocoder
 
+Collected data is stored in tweets.csv
+
 Note: Twitter API key info hidden and stored in another file.
